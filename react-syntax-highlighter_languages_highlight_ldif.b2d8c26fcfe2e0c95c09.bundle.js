@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[88],{1908:function(module,exports){module.exports=function(hljs){return{contains:[{className:"attribute",begin:"^dn",end:": ",excludeEnd:!0,starts:{end:"$",relevance:0},relevance:10},{className:"attribute",begin:"^\\w",end:": ",excludeEnd:!0,starts:{end:"$",relevance:0}},{className:"literal",begin:"^-",end:"$"},hljs.HASH_COMMENT_MODE]}}}}]);
-//# sourceMappingURL=react-syntax-highlighter_languages_highlight_ldif.b2d8c26fcfe2e0c95c09.bundle.js.map
