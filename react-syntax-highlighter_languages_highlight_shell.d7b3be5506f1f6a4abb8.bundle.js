@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[148],{1976:function(module,exports){module.exports=function(hljs){return{aliases:["console"],contains:[{className:"meta",begin:"^\\s{0,3}[\\w\\d\\[\\]()@-]*[>%$#]",starts:{end:"$",subLanguage:"bash"}}]}}}}]);
-//# sourceMappingURL=react-syntax-highlighter_languages_highlight_shell.d7b3be5506f1f6a4abb8.bundle.js.map
